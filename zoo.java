@@ -6,5 +6,6 @@ public class Zoo
 		Zebra zebra = new Zebra();
 		Hippo hippo = new Hippo();
 		Giraffe giraffe = new Giraffe();
+		Lion lion = new Lion();
 	}
 }
